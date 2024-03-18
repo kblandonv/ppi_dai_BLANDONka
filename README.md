@@ -1,1 +1,1 @@
-# ppi_dai_BLANDONka
+# Plataforma de Gestión de Desastres Naturales en Medellín
