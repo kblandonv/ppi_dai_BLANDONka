@@ -21,3 +21,9 @@ La Plataforma de Gestión de Desastres Naturales en Medellín hace uso de las si
 - **Scipy**: Utilizado para realizar análisis estadísticos avanzados relacionados con los riesgos de desastres naturales, como la modelización de la probabilidad de ocurrencia de eventos extremos.
 
 - **Geopandas**: Utilizado para cargar, manipular y visualizar datos geoespaciales relacionados con los riesgos de desastres naturales, como mapas de riesgo de inundaciones o deslizamientos de tierra.
+
+## Justificación del Uso de Django y React
+
+- **Django**: Django es un framework de desarrollo web en Python que proporciona una base sólida para construir aplicaciones web. Su enfoque en la eficiencia, la seguridad y la escalabilidad lo hace ideal para el desarrollo de una plataforma como la nuestra. Con Django, podemos manejar la lógica del servidor, el enrutamiento de URLs, la gestión de usuarios, la autenticación y la integración de la base de datos de manera eficiente y robusta.
+
+- **React**: React es una biblioteca de JavaScript para construir interfaces de usuario. Su enfoque en la creación de componentes reutilizables y la gestión eficiente del estado de la aplicación nos permite crear una interfaz de usuario interactiva y receptiva para nuestra plataforma. Además, la arquitectura de React nos facilita la creación de una aplicación web modular y fácil de mantener a medida que crece en funcionalidad y complejidad.
