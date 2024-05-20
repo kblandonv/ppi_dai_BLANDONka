@@ -22,17 +22,12 @@ La Plataforma de Gestión de Desastres Naturales en Medellín hace uso de las si
 
 - **Geopandas**: Utilizado para cargar, manipular y visualizar datos geoespaciales relacionados con los riesgos de desastres naturales, como mapas de riesgo de inundaciones o deslizamientos de tierra.
 
-## Justificación del Uso de Django y React
-
-- **Django**: Django es un framework de desarrollo web en Python que proporciona una base sólida para construir aplicaciones web. Su enfoque en la eficiencia, la seguridad y la escalabilidad lo hace ideal para el desarrollo de una plataforma como la nuestra. Con Django, podemos manejar la lógica del servidor, el enrutamiento de URLs, la gestión de usuarios, la autenticación y la integración de la base de datos de manera eficiente y robusta.
-
-- **React**: React es una biblioteca de JavaScript para construir interfaces de usuario. Su enfoque en la creación de componentes reutilizables y la gestión eficiente del estado de la aplicación nos permite crear una interfaz de usuario interactiva y receptiva para nuestra plataforma. Además, la arquitectura de React nos facilita la creación de una aplicación web modular y fácil de mantener a medida que crece en funcionalidad y complejidad.
 
 ## Información Personal
 
 Mi nombre es Kevin Andrés Blandón Vélez, estudiante de ingeniería de sistemas e informática en el octavo semestre de la Universidad Nacional de Colombia.
 
-Tengo experiencia como programador backend durante 8 meses, especializándome como desarrollador Python Django junior. Además, he trabajado como programador frontend durante 6 meses.
+Tengo experiencia como programador backend durante 8 meses, especializándome como desarrollador Python junior. Además, he trabajado como programador frontend durante 6 meses.
 
 ## Contacto
 
