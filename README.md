@@ -22,6 +22,8 @@ La Plataforma de Gestión de Desastres Naturales en Medellín hace uso de las si
 
 - **Geopandas**: Utilizado para cargar, manipular y visualizar datos geoespaciales relacionados con los riesgos de desastres naturales, como mapas de riesgo de inundaciones o deslizamientos de tierra.
 
+## Codigo
+[Click aqui para ver codigo](https://github.com/kblandonv/GeDeMedellin/tree/main)
 
 ## Información Personal
 
